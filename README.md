@@ -43,7 +43,8 @@ Inverting amplifier:
 
 
 ## GRAPH:
-![IMG_20251203_140110 1](https://github.com/user-attachments/assets/db94b757-a195-44b1-af88-d2b8e23debcc)
+![IMG_20251203_140110 1](https://github.com/user-attachments/assets/be293d41-1b25-4fff-8ed9-a488478464eb)
+
 
 
 
